@@ -16,6 +16,10 @@ and open the template in the editor.
          echo "aanpassingen toegevoegd";
          echo "<br /><br />";
          echo "nogmaals aanpassingen toegevoegd";
+         echo "<br /><br />";
+         echo "ja ja, wederom aanpassingen toegevoegd";
+         echo "<br /><br />";
+         echo "en hier weer toegevoegd";
        ?>
    </body>
 </html>
